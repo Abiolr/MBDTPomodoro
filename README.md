@@ -87,9 +87,3 @@ _A Pomodoro Timer meets ambient sound therapy with Kanye flair_
 This project is licensed for educational and portfolio purposes. All sound and image assets used must respect their original copyright.
 
 ---
-
-## 🙌 Acknowledgements
-
-Inspired by the Pomodoro productivity method and the sonic atmosphere of Kanye West’s _Graduation_.
-
----
